@@ -24,15 +24,11 @@ class Solution {
             }
             tail = tail.next;
         }
-        while(left != null){
+        if(left != null){
             tail.next = left;
-            left = left.next;
-            tail = tail.next;
         }
-        while(right != null){
+        if(right != null){
             tail.next = right;
-            right = right.next;
-            tail = tail.next;
         }
         return dummy.next;
     }
