@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0148-sort-list) |
 | [3457-eat-pizzas](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/3457-eat-pizzas) |
+| [3467-transform-array-by-parity](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/3467-transform-array-by-parity) |
 ## Merge Sort
 |  |
 | ------- |
@@ -28,8 +29,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3457-eat-pizzas](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/3457-eat-pizzas) |
+| [3467-transform-array-by-parity](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/3467-transform-array-by-parity) |
 ## Greedy
 |  |
 | ------- |
 | [3457-eat-pizzas](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/3457-eat-pizzas) |
+## Counting
+|  |
+| ------- |
+| [3467-transform-array-by-parity](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/3467-transform-array-by-parity) |
 <!---LeetCode Topics End-->
