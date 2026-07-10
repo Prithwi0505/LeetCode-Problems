@@ -9,20 +9,17 @@ class Solution {
 
         long sum = 0;
 
-        int left = 0;
         int right = n-1;
 
         for(int i = 1; i <= odd; i++){
             sum += pizzas[right];
             right--;
-            left += 3;
         }
 
         for(int i = 1; i <= even; i++){
             right--;
             sum += pizzas[right];
             right--;
-            left += 2;
         }
         return sum;
     }
