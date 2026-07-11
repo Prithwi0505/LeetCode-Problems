@@ -1,11 +1,12 @@
 class Solution {
     public int minimumSum(int n, int k) {
         HashSet<Integer> set = new HashSet<>();
-        List<Integer> lis = new ArrayList<>();
         int i = 1;
-        while(lis.size() != n){
+        int len = 0;
+        int resSum = 0;
+        while(len != n){
             if(i >= k){
-                lis.add(i);
+                resSum += i;
                 set.add(i);
             }
             else{
@@ -14,16 +15,14 @@ class Solution {
                     continue;
                 }
                 else{
-                    lis.add(i);
+                    resSum += i;
                     set.add(i);
                 }
             }
             i++;
+            len++;
         }
-        int resSum = 0;
-        for(int num : lis){
-            resSum += num;
-        }
+        
         return resSum;
     }
 }
