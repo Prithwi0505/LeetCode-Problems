@@ -5,19 +5,13 @@ class Solution {
         int len = 0;
         int resSum = 0;
         while(len != n){
-            if(i >= k){
-                resSum += i;
-                set.add(i);
+            if(set.contains(k - i)){
+                i++;
+                continue;
             }
             else{
-                if(set.contains(k - i)){
-                    i++;
-                    continue;
-                }
-                else{
-                    resSum += i;
-                    set.add(i);
-                }
+                resSum += i;
+                set.add(i);
             }
             i++;
             len++;
