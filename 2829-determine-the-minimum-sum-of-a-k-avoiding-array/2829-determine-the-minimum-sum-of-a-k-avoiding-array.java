@@ -1,15 +1,22 @@
 class Solution {
     public int minimumSum(int n, int k) {
+        HashSet<Integer> set = new HashSet<>();
         List<Integer> lis = new ArrayList<>();
         int i = 1;
         while(lis.size() != n){
-            if(i >= k) lis.add(i);
+            if(i >= k){
+                lis.add(i);
+                set.add(i);
+            }
             else{
-                if(lis.contains(k - i)){
+                if(set.contains(k - i)){
                     i++;
                     continue;
                 }
-                else lis.add(i);
+                else{
+                    lis.add(i);
+                    set.add(i);
+                }
             }
             i++;
         }
