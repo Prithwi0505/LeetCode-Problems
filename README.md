@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1124-longest-well-performing-interval](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1124-longest-well-performing-interval) |
 | [2418-sort-the-people](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/2418-sort-the-people) |
 | [3457-eat-pizzas](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/3457-eat-pizzas) |
 | [3467-transform-array-by-parity](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/3467-transform-array-by-parity) |
@@ -55,9 +56,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1124-longest-well-performing-interval](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1124-longest-well-performing-interval) |
 | [2418-sort-the-people](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/2418-sort-the-people) |
 ## String
 |  |
 | ------- |
 | [2418-sort-the-people](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/2418-sort-the-people) |
+## Stack
+|  |
+| ------- |
+| [1124-longest-well-performing-interval](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1124-longest-well-performing-interval) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1124-longest-well-performing-interval](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1124-longest-well-performing-interval) |
+## Prefix Sum
+|  |
+| ------- |
+| [1124-longest-well-performing-interval](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1124-longest-well-performing-interval) |
 <!---LeetCode Topics End-->
