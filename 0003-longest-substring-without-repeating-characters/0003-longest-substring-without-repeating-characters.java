@@ -5,14 +5,12 @@ class Solution {
         int high = 0;
         int maxLen = 0;
         while(low <= high && high < s.length()){
-            map.put(s.charAt(high), map.getOrDefault(s.charAt(high), 0) + 1);
-            while(map.containsValue(2)){
-                map.put(s.charAt(low), map.get(s.charAt(low)) - 1);
-                if(map.get(s.charAt(low)) == 0) map.remove(s.charAt(low));
-                low++;   
+            if(map.containsKey(s.charAt(high))){
+                if(map.get(s.charAt(high)) >= low) low = map.get(s.charAt(high)) + 1;
             }
             int len = (high - low) + 1;
             maxLen = Math.max(len, maxLen);
+            map.put(s.charAt(high), high);
             high++;
         }
         return maxLen;
