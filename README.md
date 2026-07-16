@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0733-flood-fill](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [1124-longest-well-performing-interval](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1124-longest-well-performing-interval) |
 | [2233-maximum-product-after-k-increments](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/2233-maximum-product-after-k-increments) |
 | [2418-sort-the-people](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/2418-sort-the-people) |
@@ -83,4 +84,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+## Depth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0733-flood-fill) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0733-flood-fill) |
+## Matrix
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
