@@ -87,13 +87,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0101-symmetric-tree) |
 | [0733-flood-fill](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0101-symmetric-tree) |
 | [0733-flood-fill](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0733-flood-fill) |
 ## Matrix
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0733-flood-fill) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
