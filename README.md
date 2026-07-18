@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0733-flood-fill](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [1124-longest-well-performing-interval](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1124-longest-well-performing-interval) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2233-maximum-product-after-k-increments](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/2233-maximum-product-after-k-increments) |
 | [2418-sort-the-people](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/2418-sort-the-people) |
 | [3457-eat-pizzas](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/3457-eat-pizzas) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 ## Hash Table
 |  |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0101-symmetric-tree) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
