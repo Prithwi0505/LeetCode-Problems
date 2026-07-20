@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0733-flood-fill](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0733-flood-fill) |
@@ -132,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1068-product-sales-analysis-i](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1068-product-sales-analysis-i) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
