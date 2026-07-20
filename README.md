@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0733-flood-fill](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [1124-longest-well-performing-interval](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1124-longest-well-performing-interval) |
+| [1260-shift-2d-grid](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2233-maximum-product-after-k-increments](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/2233-maximum-product-after-k-increments) |
 | [2418-sort-the-people](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/2418-sort-the-people) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0733-flood-fill) |
+| [1260-shift-2d-grid](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
 ## Tree
 |  |
 | ------- |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0035-search-insert-position) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
