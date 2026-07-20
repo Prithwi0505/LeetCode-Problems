@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0148-sort-list](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0148-sort-list) |
 ## Divide and Conquer
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [2418-sort-the-people](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/2418-sort-the-people) |
 ## Stack
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 ## Database
 |  |
