@@ -1,32 +1,31 @@
 class Solution {
-    public boolean fun(int i, int j, String s){
-        int ptr1 = i;
-        int ptr2 = j;
-        while (ptr1 < ptr2){
-            if(s.charAt(ptr1) == s.charAt(ptr2)){
-                ptr1++;
-                ptr2--;
-            }
-            else
-                return false;
-        }
-        return true;
-    }
-    public String longestPalindrome(String s){
-        int n = s.length();
-        int maxLen = 1;
+    public String longestPalindrome(String s) {
         int start = 0;
-        for (int  i =0; i < n; i ++){
-            for (int j = i; j < n ; j++){
-                if (fun(i, j, s) == true){
-                    int currLen = j-i+1;
-                    if (currLen > maxLen){
-                        start = i;
-                        maxLen = currLen;
-                    }
+        int maxLen = 1;
+        for(int i = 0; i < s.length(); i++){
+            int left = i;
+            int right = i;
+            while(left >= 0 && right < s.length() && s.charAt(left) == s.charAt(right)){
+                int len = right -left + 1;
+                if(len > maxLen){
+                    start = left;
+                    maxLen = len;
                 }
+                left--;
+                right++;
+            }
+            left = i;
+            right = i+1;
+            while(left >= 0 && right < s.length() && s.charAt(left) == s.charAt(right)){
+                int len = right -left + 1;
+                if(len > maxLen){
+                    start = left;
+                    maxLen = len;
+                }
+                left--;
+                right++;
             }
         }
-        return s.substring(start, start + maxLen);
+        return s.substring(start, start+maxLen);
     }
 }
