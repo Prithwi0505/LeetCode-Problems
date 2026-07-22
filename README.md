@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/2165-smallest-value-of-the-rearranged-number) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0041-first-missing-positive) |
 | [1124-longest-well-performing-interval](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1124-longest-well-performing-interval) |
 | [2418-sort-the-people](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/2418-sort-the-people) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [2418-sort-the-people](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/2418-sort-the-people) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Stack
