@@ -1,0 +1,24 @@
+class Solution {
+    public int[] productExceptSelf(int[] nums) {
+        int[] res = new int[nums.length];
+        int[] prePro = new int[nums.length];
+        int[] sufPro = new int[nums.length];
+        prePro[0] = nums[0];
+        sufPro[nums.length-1] = nums[nums.length-1];
+
+        for(int i = 1; i < nums.length; i++){
+            prePro[i] = prePro[i-1] * nums[i]; 
+        }
+
+        for(int i = nums.length-2; i >= 0; i--){
+            sufPro[i] = sufPro[i+1] * nums[i]; 
+        }
+
+        for(int i = 0; i < nums.length; i++){
+            if(i == 0) res[i] = sufPro[1];
+            else if(i == nums.length-1) res[i] = prePro[i-1];
+            else res[i] = prePro[i-1] * sufPro[i+1];
+        }
+        return res;
+    }
+}
