@@ -1,9 +1,14 @@
 class Solution {
     public int maxProduct(int n) {
-        List<Integer> lis = new ArrayList<>();
+        int max1 = Integer.MIN_VALUE;
+        int max2 = Integer.MIN_VALUE;
         while(n != 0){
             int d = n % 10;
-            lis.add(d);
+            if(d >= max1){
+                max2 = max1;
+                max1 = d;
+            }
+            else if(d > max2 && d < max1) max2 = d;
             n= n / 10;
         }
         // int largest = 0;
@@ -17,7 +22,6 @@ class Solution {
         //         largest2 = lis.get(i);
         //     }
         // }
-        Collections.sort(lis);
-        return lis.get(lis.size()-1)*lis.get(lis.size()-2);
+        return max1 * max2;
     }
 }
