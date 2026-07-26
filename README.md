@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0148-sort-list) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2418-sort-the-people](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/2418-sort-the-people) |
 | [3457-eat-pizzas](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/3457-eat-pizzas) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0238-product-of-array-except-self](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [1124-longest-well-performing-interval](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1124-longest-well-performing-interval) |
 | [1260-shift-2d-grid](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0013-roman-to-integer) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/2165-smallest-value-of-the-rearranged-number) |
