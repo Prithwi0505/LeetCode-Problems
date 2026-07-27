@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0287-find-the-duplicate-number](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0443-string-compression](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0443-string-compression) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0013-roman-to-integer) |
+| [0443-string-compression](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0443-string-compression) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1796-second-largest-digit-in-a-string) |
 | [2418-sort-the-people](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/2418-sort-the-people) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
