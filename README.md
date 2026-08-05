@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0443-string-compression) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1796-second-largest-digit-in-a-string) |
 | [2418-sort-the-people](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/2418-sort-the-people) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Stack
 |  |
