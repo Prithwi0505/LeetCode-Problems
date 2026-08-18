@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2418-sort-the-people](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/2418-sort-the-people) |
+| [2785-sort-vowels-in-a-string](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/2785-sort-vowels-in-a-string) |
 | [3457-eat-pizzas](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/3457-eat-pizzas) |
 | [3467-transform-array-by-parity](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/3536-maximum-product-of-two-digits) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0443-string-compression) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1796-second-largest-digit-in-a-string) |
 | [2418-sort-the-people](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/2418-sort-the-people) |
+| [2785-sort-vowels-in-a-string](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/2785-sort-vowels-in-a-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
