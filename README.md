@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0046-permutations) |
 | [0088-merge-sorted-array](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0238-product-of-array-except-self](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
@@ -195,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
