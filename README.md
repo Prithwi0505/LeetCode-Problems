@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0287-find-the-duplicate-number](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0443-string-compression) |
+| [1768-merge-strings-alternately](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1768-merge-strings-alternately) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0290-word-pattern](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0290-word-pattern) |
 | [0443-string-compression](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0443-string-compression) |
+| [1768-merge-strings-alternately](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1796-second-largest-digit-in-a-string) |
 | [2418-sort-the-people](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/2418-sort-the-people) |
 | [2785-sort-vowels-in-a-string](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/2785-sort-vowels-in-a-string) |
