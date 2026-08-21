@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/2165-smallest-value-of-the-rearranged-number) |
+| [2235-add-two-integers](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/2235-add-two-integers) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
