@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
