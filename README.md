@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0443-string-compression) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1768-merge-strings-alternately) |
 ## Divide and Conquer
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1200-minimum-absolute-difference](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2418-sort-the-people](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/2418-sort-the-people) |
 | [2785-sort-vowels-in-a-string](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/2785-sort-vowels-in-a-string) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2233-maximum-product-after-k-increments](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/2233-maximum-product-after-k-increments) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0041-first-missing-positive) |
 | [0290-word-pattern](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0290-word-pattern) |
 | [1124-longest-well-performing-interval](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1124-longest-well-performing-interval) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1796-second-largest-digit-in-a-string) |
 | [2418-sort-the-people](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/2418-sort-the-people) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
