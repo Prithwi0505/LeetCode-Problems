@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0443-string-compression) |
 | [1768-merge-strings-alternately](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1768-merge-strings-alternately) |
 ## Divide and Conquer
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0290-word-pattern](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0290-word-pattern) |
+| [0392-is-subsequence](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1768-merge-strings-alternately) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0118-pascals-triangle) |
+| [0392-is-subsequence](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0392-is-subsequence) |
 ## Database
 |  |
 | ------- |
