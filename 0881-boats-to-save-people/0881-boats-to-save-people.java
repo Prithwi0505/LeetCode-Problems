@@ -1,7 +1,7 @@
 class Solution {
     public int numRescueBoats(int[] people, int limit) {
-        int boat = 0;
         Arrays.sort(people);
+        int boat = 0;
         int left = 0;
         int right = people.length-1;
 
@@ -9,8 +9,9 @@ class Solution {
             if(people[left] + people[right] <= limit){
                 left++;
             }
-            boat++;
             right--;
+            boat++;
+            
         }
         return boat;
     }
