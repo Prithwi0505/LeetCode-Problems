@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0443-string-compression) |
+| [0881-boats-to-save-people](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1768-merge-strings-alternately) |
 ## Divide and Conquer
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0414-third-maximum-number](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0881-boats-to-save-people](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 | [1200-minimum-absolute-difference](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0733-flood-fill) |
+| [0881-boats-to-save-people](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 | [1124-longest-well-performing-interval](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1124-longest-well-performing-interval) |
 | [1200-minimum-absolute-difference](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0605-can-place-flowers) |
+| [0881-boats-to-save-people](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 | [2233-maximum-product-after-k-increments](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/2233-maximum-product-after-k-increments) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [3457-eat-pizzas](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/3457-eat-pizzas) |
@@ -228,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
