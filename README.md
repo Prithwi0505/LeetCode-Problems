@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1796-second-largest-digit-in-a-string) |
 | [2418-sort-the-people](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/2418-sort-the-people) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3295-report-spam-message](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/3295-report-spam-message) |
 ## String
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1796-second-largest-digit-in-a-string) |
 | [2418-sort-the-people](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/2418-sort-the-people) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2785-sort-vowels-in-a-string](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/2785-sort-vowels-in-a-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Depth-First Search
 |  |
