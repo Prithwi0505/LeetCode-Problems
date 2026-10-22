@@ -44,6 +44,12 @@ class Solution {
                 
             }while(slow != fast);
 
+            int curr = i;
+            while (nums[curr] != 0 && (nums[curr] > 0) == isPos) {
+                int next = nextIdx(nums, curr);
+                nums[curr] = 0;
+                curr = next;
+            }
         }
         return false;
     }
