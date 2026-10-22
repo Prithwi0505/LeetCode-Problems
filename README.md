@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0443-string-compression) |
+| [0457-circular-array-loop](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0457-circular-array-loop) |
 | [0881-boats-to-save-people](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0948-bag-of-tokens) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0414-third-maximum-number) |
+| [0457-circular-array-loop](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0457-circular-array-loop) |
 | [0605-can-place-flowers](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0733-flood-fill) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0041-first-missing-positive) |
 | [0290-word-pattern](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0290-word-pattern) |
+| [0457-circular-array-loop](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0457-circular-array-loop) |
 | [1124-longest-well-performing-interval](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1124-longest-well-performing-interval) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1796-second-largest-digit-in-a-string) |
@@ -243,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0457-circular-array-loop](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0457-circular-array-loop) |
 <!---LeetCode Topics End-->
