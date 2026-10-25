@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0457-circular-array-loop) |
 | [0957-prison-cells-after-n-days](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0957-prison-cells-after-n-days) |
 | [1124-longest-well-performing-interval](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1124-longest-well-performing-interval) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1796-second-largest-digit-in-a-string) |
 | [2418-sort-the-people](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/2418-sort-the-people) |
@@ -171,11 +173,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [1124-longest-well-performing-interval](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1124-longest-well-performing-interval) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1732-find-the-highest-altitude) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Depth-First Search
@@ -220,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Prithwi0505/LeetCode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Simulation
 |  |
 | ------- |
